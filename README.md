@@ -1,7 +1,12 @@
 # Sorting Algorithm Project
+---
 
+<img align="left" alt="#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+<img align="left" alt="#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
+<img align="left" alt="#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<br>
 
-          
+#
 This project contains a simple and reusable sorting algorithm implemented in JavaScript. It's designed to be easily integrated into any project requiring sorting functionality.
 
 ## Description
@@ -16,6 +21,3 @@ This sorting algorithm provides a versatile solution for sorting arrays of any d
 
 3. **Collaboration**: Even thought  I have found different ways to develop this kind of program, still this sorting algorithm can enhance the sorting capabilities of your applications. If you want to share better ways to work this program, I  am very open to suggestions for improvements. I theres to find any bug please report them. Your contributions are always  welcome.
 
----
-
-Even thought  I have found different ways to develop this kind of program, still this sorting algorithm can enhance the sorting capabilities of your applications. 
